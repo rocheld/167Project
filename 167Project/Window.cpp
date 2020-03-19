@@ -3,9 +3,9 @@
 /*
  * Declare your variables below. Unnamed namespace is used here to avoid
  * declaring global or static variables.
- 
  * 
  */
+
 namespace
 {
     int width, height;
